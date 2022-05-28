@@ -7,6 +7,7 @@ doot does not overwrite any files, so if they exist the program will just skip t
 ## Installation
 ```bash
 $ git clone git@github.com:anomalyze/doot.git
+$ cd doot
 $ cargo build --release
 $ cargo install --path .
 ```
