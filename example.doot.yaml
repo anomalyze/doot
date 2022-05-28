@@ -1,0 +1,8 @@
+dotfiles:
+- name: sway
+  src_path: $HOME/dotfiles/configs/sway_config
+  dst_path: $HOME/.config/sway/config
+
+- name: kitty
+  src_path: $HOME/dotfiles/configs/kitty.conf
+  dst_path: $HOME/.config/kitty/kitty.conf
